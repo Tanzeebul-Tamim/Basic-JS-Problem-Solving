@@ -20,6 +20,8 @@ This repository captures the early stages of my programming journey, where I exp
 
 ## Clone the Repository:
 
+To clone this repository to your local machine, use the following command:
+
 ```sh
 git clone https://github.com/Tanzeebul-Tamim/Basic-JS-Problem-Solving.git
 ```
