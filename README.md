@@ -1,9 +1,25 @@
-# Assignment - 4
-## Basic-JS-Problem-Solving
-### Note: Here begins my journey of learning programming and I started with Javascript
-#### Problems:
-1. Here's a function called mindGame() which takes a positive number as an input and then multiplies it by 3. After that it adds 10 with the previous product. Then the sum is divided by 2 and finally it deducts 5 from the previous quotient and shows the result as an output.
-2. Here's a function called evenOdd() which takes a string as an input and shows 'even' or 'odd' as an output based on the number of the characters of the input string.
-3. Here's a function called isLGSeven() which takes a number as an input and finds the difference between the input-value and 7. If the difference is less than 7, it will show the difference as an output. Otherwise, it will return a value as an output, which is double of the input value.
-4. Here is a function called findingBadData() which takes an array as an input. The array will contain both positive & negative numbers (less than, greater than or equal to zero). If the number is negative, we'll call it a "Bad Data" & if it is positive, we'll call it a "Good Data". The function finds out the quantity of the Bad Data and return the value as an output.
-5. Here is a function called gemsToDiamond() which takes 3 numeric values as input and the numeric value here represents the number of gems each of the 3 friends have. Each friend has a gem of different power and the power here represents the quantity of diamonds they can get by converting their each of the own gems. This function calculates the quantity of total diamonds three friends can get altogether from the conversion of the total quantity of their gems. Finally, if the grandtotal is larger than 2000, the function deducts 2000 from the grandtotal and returns the value as an output. Otherwise it shows the value of the grandtotal as an output.
+# Basic Problem Solving in JavaScript
+
+This repository marks the beginning of my journey in learning to program. The following questions serve as a foundation for understanding basic programming concepts and improving problem-solving skills.
+
+## Problem Statements
+
+1. **mindGame()**: A function that takes a positive number as input, multiplies it by 3, adds 10, divides by 2, and deducts 5 to show the result.
+
+2. **evenOdd()**: A function that takes a string as input and determines if the number of characters is even or odd.
+
+3. **isLGSeven()**: A function that takes a number as input, finds the difference between the input value and 7, and returns either the difference or double the input value based on certain conditions.
+
+4. **findingBadData()**: A function that takes an array containing positive and negative numbers, identifies "Bad Data" (negative numbers), and returns the quantity of such data.
+
+5. **gemsToDiamond()**: A function that takes 3 numeric values representing the number of gems each of 3 friends have, calculates the total quantity of diamonds they can get by converting their gems, and adjusts the total if necessary.
+
+## Journey to Programming
+
+This repository captures the early stages of my programming journey, where I explore fundamental concepts and practice problem-solving techniques. The solutions provided here serve as a starting point for building a solid understanding of JavaScript and algorithmic thinking.
+
+## Clone the Repository:
+
+```sh
+git clone https://github.com/Tanzeebul-Tamim/Basic-JS-Problem-Solving.git
+```
